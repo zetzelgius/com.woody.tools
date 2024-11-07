@@ -1,0 +1,14 @@
+{
+  {
+    "name": "com.woody.tools",
+    "version": "1.0.0",
+    "displayName": "Woody 工具包",
+    "description": "提供載入場景與退出遊戲功能",
+    "unity": "6000.0",
+
+    "author": {
+      "name": "Woody",
+      "email": "zet.zelgius@gmail.com",
+      "url": ""
+    }
+  }
